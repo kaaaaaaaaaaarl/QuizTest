@@ -10,7 +10,7 @@ public class main1 {
                 , "ko dara pirmais for loop izteiciens?"
                 , "Kāpēc cikli izmanto i lai reprezenteta cikla skaitu?"
                 , "matemātiski algoritmā kā jātzīmē loop?"
-                , "rijuhkwtgn"
+                , "Bija velviens veids kā izveidot loop programmas, kā piemēram MS basic valodā ko mūsdienās neizmanto, kā šo loop atzīmēja?"
                 , "BMW2"
                 , "Ford2"
                 , "Mazda2"
@@ -22,8 +22,8 @@ public class main1 {
                 {"A) where", "B) do", "C) for", "D) while"},
                 {"A) definē mainīgo", "B) definē cikla apstāšanās", "C) A vai B", "D) komanda ko atkarto katru ciklu"},
                 {"A) jo tā ir tradīcija", "B) I ir īsaikais burts alfabētā", "C) I nozīmē \"Increment\"", "D) I nozīmē \"Int\""},
-                {"A) do", "atbilde2", "atbilde3", "atbilde4"},
-                {"atbilde1", "atbilde2", "atbilde3", "atbilde4"},
+                {"A) do", "B) while", "c) for", "D) loop"},
+                {"A", "atbilde2", "atbilde3", "atbilde4"},
                 {"atbilde1", "atbilde2", "atbilde3", "atbilde4"},
                 {"atbilde1", "atbilde2", "atbilde3", "atbilde4"},
                 {"atbilde1", "atbilde2", "atbilde3", "atbilde4"},
@@ -39,7 +39,7 @@ public class main1 {
                 {true, false, false, false},
                 {true, false, false, false},
 
-                {false, false, true, false},
+                {true, true, true, false},
                 {true, false, false, false},
                 {true, false, false, false},
                 {false, false, true, false},
